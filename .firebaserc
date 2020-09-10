@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "react-boilerplate": "react-boilerplate-d8946",
+    "staging": "qwertyname",
+    "default": "qwertyname"
+  }
+}

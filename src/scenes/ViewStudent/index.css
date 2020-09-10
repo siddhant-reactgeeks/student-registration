@@ -1,0 +1,10 @@
+.create-player-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.error-msg {
+    color: red;
+    margin-left: 20px;
+}
